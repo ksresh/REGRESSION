@@ -1,0 +1,446 @@
+,Unnamed: 0,Brand,Current Price,Original Price,Discount Percentage,Rating,Number OF Ratings,Dial Shape,Strap Color,Strap Material,Touchscreen,Battery Life (Days),Bluetooth,Display Size,Weight
+0,0,noise,82990.0,89900.0,7.686318131,4.0,65.0,Rectangle,Black,Other,Yes,8.0,Yes,1.7,42.5
+1,1,fire-boltt,3799.0,16999.0,77.65162657,4.3,20788.0,Square,Black,Silicon,Yes,3.5,Yes,1.8,62.5
+2,2,boat,1999.0,7990.0,74.98122653,3.8,21724.0,Rectangle,Black,Silicon,Yes,8.0,Yes,1.7,42.5
+3,3,fire-boltt,1799.0,19999.0,91.00455023,4.3,13244.0,Square,Black,Silicon,Yes,3.5,Yes,1.8,75.0
+4,4,noise,1599.0,4999.0,68.01360272,4.1,13901.0,Rectangle,Black,Other,Yes,8.0,Yes,1.7,42.5
+5,5,noise,1499.0,3999.0,62.51562891,4.0,32704.0,Rectangle,Black,Other,Yes,8.0,Yes,1.7,42.5
+6,6,noise,1999.0,4999.0,60.0120024,4.1,1018.0,Rectangle,Black,Other,Yes,8.0,Yes,1.4,42.5
+7,7,noise,1799.0,3999.0,55.01375344,4.0,32704.0,Rectangle,Black,Other,Yes,8.0,Yes,1.7,42.5
+8,8,noise,1999.0,6499.0,69.24142176,4.1,39479.0,Rectangle,Black,Other,Yes,8.0,Yes,1.8,42.5
+9,9,noise,1999.0,5999.0,66.67777963,4.1,39479.0,Rectangle,Black,Other,Yes,8.0,Yes,1.8,42.5
+10,10,noise,1999.0,5999.0,66.67777963,4.1,8765.0,Rectangle,Black,Other,Yes,8.0,Yes,1.9,42.5
+11,11,noise,1799.0,3999.0,55.01375344,4.0,32704.0,Rectangle,Black,Other,Yes,8.0,Yes,1.7,42.5
+12,12,noise,3799.0,7999.0,52.50656332,3.8,545.0,Rectangle,Black,Other,Yes,8.0,Yes,1.7,42.5
+13,13,noise,3499.0,5999.0,41.67361227,3.8,281.0,Rectangle,Black,Other,Yes,8.0,Yes,1.7,42.5
+14,14,noise,1999.0,5999.0,66.67777963,4.1,9081.0,Rectangle,Black,Other,Yes,8.0,Yes,1.8,42.5
+15,15,noise,1499.0,4999.0,70.0140028,4.0,93075.0,Rectangle,Black,Polycarbonate,Yes,3.6,Yes,1.3,27.5
+16,16,noise,1799.0,4999.0,64.01280256,4.1,13901.0,Rectangle,Black,Other,Yes,8.0,Yes,1.7,42.5
+17,17,noise,1999.0,5999.0,66.67777963,4.1,8765.0,Rectangle,Black,Other,Yes,8.0,Yes,1.9,42.5
+18,18,noise,1999.0,5999.0,66.67777963,4.1,9081.0,Rectangle,Black,Other,Yes,8.0,Yes,1.8,42.5
+19,19,noise,2499.0,5999.0,58.34305718,3.5,227.0,Rectangle,Black,Other,Yes,8.0,Yes,1.3,42.5
+20,20,noise,1799.0,3999.0,55.01375344,4.0,32704.0,Rectangle,Black,Other,Yes,8.0,Yes,1.7,42.5
+21,21,noise,2999.0,5999.0,50.00833472,4.1,5866.0,Rectangle,Black,Other,Yes,8.0,Yes,1.7,42.5
+22,22,boat,2699.0,7990.0,66.22027534,4.2,71481.0,Rectangle,Black,Silicon,Yes,8.0,Yes,1.7,62.5
+23,23,boat,2499.0,7990.0,68.72340426,4.2,71481.0,Rectangle,Black,Silicon,Yes,8.0,Yes,1.7,62.5
+24,24,boat,1999.0,7990.0,74.98122653,3.8,21724.0,Rectangle,Black,Silicon,Yes,8.0,Yes,1.7,42.5
+25,25,boat,1199.0,6990.0,82.84692418,4.0,27771.0,Rectangle,Black,Silicon,Yes,8.0,Yes,1.3,62.5
+26,26,boat,1799.0,6990.0,74.26323319,3.9,2931.0,Rectangle,Black,Metal,Yes,8.0,Yes,1.8,42.5
+27,27,boat,1999.0,7990.0,74.98122653,3.8,21724.0,Rectangle,Black,Silicon,Yes,8.0,Yes,1.7,42.5
+28,28,boat,2599.0,7990.0,67.4718398,4.2,71481.0,Rectangle,Black,Silicon,Yes,8.0,Yes,1.7,75.0
+29,29,boat,1999.0,7990.0,74.98122653,3.6,827.0,Rectangle,Black,Other,Yes,8.0,Yes,1.7,42.5
+30,30,boat,1999.0,7990.0,74.98122653,3.6,827.0,Rectangle,Black,Other,Yes,8.0,Yes,1.7,75.0
+31,31,boat,1199.0,6990.0,82.84692418,4.0,27771.0,Rectangle,Black,Silicon,Yes,8.0,Yes,1.3,62.5
+32,32,noise,1799.0,4999.0,64.01280256,4.0,69803.0,Rectangle,Black,Other,Yes,8.0,Yes,1.8,42.5
+33,33,boat,1699.0,6990.0,75.69384835,3.9,23498.0,Rectangle,Black,Stainless Steel,Yes,8.0,Yes,1.7,42.5
+34,34,noise,1799.0,4999.0,64.01280256,4.1,13901.0,Rectangle,Black,Other,Yes,8.0,Yes,1.7,42.5
+35,35,boat,1199.0,6990.0,82.84692418,4.0,27771.0,Rectangle,Black,Silicon,Yes,8.0,Yes,1.3,62.5
+36,36,boat,1449.0,5990.0,75.8096828,3.9,3944.0,Rectangle,Black,Other,Yes,22.0,Yes,1.7,42.5
+37,37,boat,1899.0,6499.0,70.78012002,3.7,328.0,Rectangle,Black,Other,Yes,8.0,Yes,1.7,42.5
+38,38,boat,2199.0,7999.0,72.50906363,4.0,19590.0,Rectangle,Black,Other,Yes,22.0,Yes,1.8,75.0
+39,39,honor,11499.0,18999.0,39.47576188,3.9,406.0,Circle,Black,Other,Yes,12.5,Yes,1.4,42.5
+40,40,honor,2199.0,1868.0,-17.71948608,4.1,181.0,Circle,Black,Other,Yes,3.5,Yes,1.5,20.0
+41,41,honor,11499.0,9773.0,-17.66090249,4.2,20.0,Circle,Black,Other,Yes,12.5,Yes,1.4,42.5
+42,42,honor,14999.0,12499.0,-20.00160013,3.9,100.0,Circle,Black,Other,Yes,0.75,Yes,1.2,75.0
+44,44,honor,8999.0,14999.0,40.00266684,4.4,7792.0,Circle,Black,Other,Yes,22.0,Yes,1.4,42.5
+46,46,honor,8999.0,7473.0,-20.42017931,4.1,323.0,Circle,Black,Other,Yes,0.75,Yes,1.4,75.0
+47,47,samsung,11999.0,30990.0,61.28105841,4.1,72.0,Circle,Black,Other,Yes,3.5,Yes,1.4,42.5
+48,48,samsung,18410.0,37999.0,51.55135661,4.3,5228.0,Circle,Black,Other,Yes,3.6,Yes,4.6,62.5
+49,49,samsung,3999.0,7999.0,19.0,4.3,5228.0,Circle,Black,Other,Yes,3.6,Yes,4.4,27.5
+50,50,samsung,17999.0,19990.0,9.95997999,4.3,5228.0,Circle,Black,Other,Yes,3.6,Yes,4.4,27.5
+51,51,samsung,18000.0,34999.0,48.56995914,4.3,5228.0,Circle,Black,Other,Yes,3.5,Yes,1.4,75.0
+52,52,garmin,16990.0,22490.0,24.45531347,4.3,312.0,Circle,Black,Silicon,Yes,22.0,Yes,1.3,42.5
+53,53,garmin,27990.0,36490.0,23.29405317,4.5,4339.0,Circle,Black,Other,Yes,17.5,Yes,1.3,20.0
+54,54,garmin,3999.0,7999.0,15.0,3.7,6.0,Circle,Black,Other,Yes,22.0,Yes,35.9,42.5
+55,55,garmin,18990.0,27990.0,32.15434084,4.3,19.0,Circle,Black,Other,Yes,17.5,Yes,1.3,20.0
+56,56,garmin,3999.0,7999.0,15.0,5.0,1.0,Circle,Black,Other,Yes,22.0,Yes,35.9,42.5
+57,57,garmin,34990.0,51990.0,32.69859588,4.3,19.0,Circle,Black,Carbon-Fiber;,Yes,8.0,Yes,1.3,42.5
+58,58,garmin,3999.0,7999.0,15.0,3.8,38.0,Circle,Black,Stainless Steel,Yes,8.0,Yes,30.0,75.0
+59,59,garmin,20990.0,25990.0,19.23816853,4.3,127.0,Circle,Black,Other,Yes,17.5,Yes,1.3,20.0
+60,60,garmin,18990.0,20490.0,7.320644217,3.5,7.0,Circle,Black,Other,Yes,17.5,Yes,1.3,27.5
+61,61,garmin,78490.0,89460.0,12.26246367,4.4,6.0,Circle,Black,Other,Yes,17.5,Yes,1.3,20.0
+62,62,huawei,26581.0,42513.0,37.4755957,4.7,830.0,Circle,Black,Other,Yes,8.0,Yes,1.4,42.5
+63,63,huawei,16499.0,29999.0,45.00150005,4.7,7108.0,Circle,Black,Other,Yes,8.0,Yes,1.4,42.5
+64,64,huawei,6400.0,11999.0,46.66222185,4.5,49.0,Circle,Black,Other,Yes,8.0,Yes,0.5,75.0
+65,65,noise,3799.0,7999.0,52.50656332,3.8,545.0,Rectangle,Black,Other,Yes,8.0,Yes,1.7,42.5
+66,66,dizo,2126.0,5999.0,64.56076013,3.7,18.0,Rectangle,Black,Other,Yes,8.0,Yes,1.9,27.5
+67,67,dizo,2126.0,5999.0,64.56076013,3.7,18.0,Rectangle,Black,Other,Yes,8.0,Yes,1.9,27.5
+68,68,dizo,2999.0,1669.0,-79.68843619,4.0,2.0,Rectangle,Black,Other,Yes,22.0,Yes,1.8,75.0
+69,69,dizo,3999.0,7999.0,48.0,2.4,7.0,Rectangle,Black,Other,Yes,22.0,Yes,1.8,75.0
+70,70,dizo,2126.0,5999.0,64.56076013,3.7,18.0,Rectangle,Black,Other,Yes,8.0,Yes,1.9,27.5
+71,71,fire-boltt,3999.0,7999.0,65.0,4.3,39274.0,Square,Black,Silicon,Yes,3.5,Yes,1.3,42.5
+72,72,dizo,4299.0,6999.0,38.57693956,2.5,2.0,Rectangle,Black,Other,Yes,8.0,Yes,1.8,75.0
+73,73,fire-boltt,1299.0,9999.0,87.00870087,4.2,25784.0,Square,Black,Silicon,Yes,8.0,Yes,1.7,42.5
+74,74,fire-boltt,1799.0,9999.0,82.00820082,4.2,33415.0,Square,Black,Silicon,Yes,8.0,Yes,1.3,62.5
+75,75,noise,1799.0,4999.0,64.01280256,4.1,13901.0,Rectangle,Black,Other,Yes,8.0,Yes,1.7,42.5
+76,76,gizmore,1699.0,5499.0,69.10347336,2.7,10.0,Square,Black,Other,Yes,3.5,Yes,1.9,75.0
+77,77,gizmore,1599.0,5999.0,73.34555759,4.3,37.0,Square,Black,Other,Yes,12.5,Yes,1.7,75.0
+78,78,gizmore,1499.0,5999.0,75.01250208,4.0,69.5,Square,Black,Other,Yes,3.5,Yes,1.9,75.0
+79,79,gizmore,1699.0,7999.0,78.75984498,2.0,5.0,Square,Black,Other,Yes,3.5,Yes,1.7,62.5
+80,80,gizmore,3299.0,5999.0,45.00750125,4.0,102.0,Square,Black,Other,Yes,8.0,Yes,1.3,75.0
+81,81,gizmore,1499.0,5999.0,75.01250208,3.0,2.0,Square,Black,Other,Yes,3.5,Yes,1.9,75.0
+82,82,gizmore,3299.0,5999.0,45.00750125,4.0,102.0,Square,Black,Plastic,Yes,12.5,Yes,1.3,75.0
+83,83,gizmore,1699.0,5499.0,69.10347336,2.5,3.0,Square,Black,Other,Yes,3.5,Yes,1.9,75.0
+84,84,ambrane,2368.0,4499.0,47.36608135,3.5,301.0,Square,Black,Other,Yes,12.5,Yes,1.3,42.5
+85,85,ambrane,2199.0,4999.0,56.01120224,3.9,256.0,Square,Black,Other,Yes,8.0,Yes,1.3,42.5
+86,86,fire-boltt,1799.0,2199.0,18.1900864,4.3,39274.0,Square,Black,Silicon,Yes,3.5,Yes,1.3,42.5
+87,87,fire-boltt,1999.0,7999.0,75.00937617,4.1,33012.0,Square,Black,Silicon,Yes,8.0,Yes,1.7,42.5
+88,88,zebronics,1799.0,6499.0,72.31881828,3.8,2138.0,Square,Black,Other,Yes,3.5,Yes,4.3,42.5
+89,89,noise,1799.0,3999.0,55.01375344,4.0,32704.0,Rectangle,Black,Other,Yes,8.0,Yes,1.7,42.5
+90,90,pebble,2999.0,6999.0,57.15102157,3.8,3563.0,Square,Black,Other,Yes,8.0,Yes,1.8,75.0
+91,91,pebble,4499.0,7499.0,40.00533404,3.6,94.0,Square,Black,Other,Yes,12.5,Yes,1.3,42.5
+92,92,pebble,3999.0,7999.0,44.0,3.6,725.0,Square,Black,Other,Yes,12.5,Yes,1.3,62.5
+93,93,pebble,4299.0,7499.0,42.67235631,3.6,55.0,Square,Black,Other,Yes,22.0,Yes,1.1,42.5
+96,96,fire-boltt,2499.0,9999.0,75.00750075,4.1,2571.0,Square,Black,Other,Yes,8.0,Yes,2.0,75.0
+98,98,zebronics,2099.0,7999.0,73.7592199,3.8,7386.0,Square,Black,Metal,Yes,8.0,Yes,4.4,75.0
+99,99,zebronics,1999.0,3999.0,50.01250313,3.8,2452.0,Square,Black,Other,Yes,8.0,Yes,3.5,75.0
+100,100,zebronics,2449.0,8499.0,71.18484528,3.9,207.0,Square,Black,Other,Yes,8.0,Yes,4.3,42.5
+101,101,zebronics,1399.0,3999.0,65.01625406,4.0,311.0,Square,Black,Other,Yes,22.0,Yes,4.3,42.5
+102,102,zebronics,1799.0,6499.0,72.31881828,3.8,2138.0,Square,Black,Other,Yes,3.5,Yes,4.3,42.5
+103,103,zebronics,3499.0,11499.0,69.57126707,4.2,52.0,Square,Black,Other,Yes,0.75,Yes,1.8,62.5
+104,104,zebronics,3599.0,10999.0,67.27884353,3.9,1611.0,Square,Black,Other,Yes,8.0,Yes,4.5,62.5
+105,105,zebronics,1999.0,6999.0,71.43877697,3.8,2138.0,Square,Black,Other,Yes,3.5,Yes,4.3,42.5
+106,106,zebronics,2399.0,5999.0,60.01000167,3.8,3805.0,Square,Black,Other,Yes,22.0,Yes,4.4,42.5
+107,107,zebronics,3999.0,7999.0,56.0,3.5,100.0,Square,Black,Other,Yes,8.0,Yes,4.4,75.0
+108,108,zebronics,3599.0,10999.0,67.27884353,3.9,1611.0,Square,Black,Other,Yes,8.0,Yes,4.5,62.5
+109,109,fire-boltt,1299.0,7999.0,83.76047006,4.2,25784.0,Square,Black,Silicon,Yes,8.0,Yes,1.7,42.5
+110,110,fire-boltt,2499.0,11999.0,79.17326444,4.1,1990.0,Square,Black,Other,Yes,8.0,Yes,1.9,75.0
+111,111,fire-boltt,1799.0,9999.0,82.00820082,4.2,33415.0,Square,Black,Silicon,Yes,8.0,Yes,1.3,62.5
+112,112,fire-boltt,2499.0,9999.0,75.00750075,4.2,23302.0,Square,Black,Silicon,Yes,3.5,Yes,1.8,62.5
+113,113,fire-boltt,2499.0,9999.0,75.00750075,4.2,23302.0,Square,Black,Silicon,Yes,3.5,Yes,1.8,62.5
+114,114,fire-boltt,1794.0,7999.0,77.57219652,4.1,33012.0,Square,Black,Silicon,Yes,8.0,Yes,1.7,42.5
+115,115,fire-boltt,3499.0,11999.0,70.8392366,4.1,44170.0,Square,Black,Silicon,Yes,3.5,Yes,1.9,75.0
+116,116,fire-boltt,2499.0,18999.0,86.84667614,4.2,11.0,Square,Black,Other,Yes,3.5,Yes,1.9,75.0
+117,117,fire-boltt,2499.0,11999.0,79.17326444,4.1,1990.0,Square,Black,Other,Yes,8.0,Yes,1.9,75.0
+118,118,fire-boltt,1399.0,11999.0,88.34069506,4.1,1519.0,Square,Black,Silicon,Yes,8.0,Yes,1.8,75.0
+119,119,fire-boltt,1899.0,8999.0,78.8976553,4.0,15543.0,Square,Black,Silicon,Yes,8.0,Yes,1.3,62.5
+120,120,fire-boltt,1999.0,7999.0,75.00937617,4.1,33012.0,Square,Black,Silicon,Yes,8.0,Yes,1.7,42.5
+121,121,fire-boltt,1799.0,11999.0,85.00708392,4.3,39274.0,Square,Black,Other,Yes,3.5,Yes,1.4,75.0
+122,122,apple,29650.0,29900.0,0.836120401,4.5,154.0,Rectangle,Midnight,Silicon,Yes,22.0,Yes,1.6,20.0
+123,123,apple,37900.0,7999.0,2.0,4.4,65.0,Rectangle,Starlight Sport,Silicon,Yes,22.0,Yes,1.7,20.0
+124,124,apple,23349.0,23900.0,2.305439331,4.6,55800.0,Rectangle,Black,Silicon,Yes,22.0,Yes,1.7,20.0
+125,125,apple,33900.0,7999.0,2.0,4.6,3440.0,Rectangle,Pink,Silicon,Yes,22.0,Yes,1.6,20.0
+126,126,apple,89900.0,7999.0,2.0,4.7,51.0,Rectangle,Orange Alpine,Fabric,Yes,3.5,Yes,1.9,75.0
+127,127,apple,55900.0,7999.0,2.0,4.5,132.0,Rectangle,Starlight Sport,Silicon,Yes,22.0,Yes,1.6,20.0
+128,128,apple,44730.0,44900.0,0.378619154,4.6,2847.0,Rectangle,Green,Aluminium,Yes,22.0,Yes,1.8,27.5
+129,129,apple,41900.0,7999.0,2.0,4.6,2847.0,Rectangle,Green,Aluminium,Yes,22.0,Yes,1.6,20.0
+130,130,apple,29900.0,7999.0,2.0,4.6,5502.0,Rectangle,Gold,Silicon,Yes,22.0,Yes,1.6,20.0
+131,131,apple,49666.0,50900.0,2.424361493,4.5,1519.0,Rectangle,Blue,Aluminium,Yes,22.0,Yes,1.6,20.0
+132,132,apple,53900.0,7999.0,2.0,4.5,1519.0,Rectangle,Blue,Aluminium,Yes,22.0,Yes,1.8,27.5
+133,133,apple,49900.0,7999.0,2.0,4.5,1349.0,Rectangle,Black,Silicon,Yes,22.0,Yes,1.6,27.5
+134,134,apple,48900.0,7999.0,2.0,4.3,158.0,Rectangle,Starlight Sport,Silicon,Yes,22.0,Yes,1.8,27.5
+135,135,apple,29900.0,7999.0,2.0,4.6,5502.0,Rectangle,Silver,Silicon,Yes,22.0,Yes,1.6,20.0
+136,136,apple,29900.0,7999.0,2.0,4.6,5502.0,Rectangle,White,Silicon,Yes,22.0,Yes,1.6,20.0
+137,137,apple,32899.0,32900.0,0.003039514,4.6,5502.0,Rectangle,Grey,Silicon,Yes,22.0,Yes,1.7,27.5
+138,138,apple,22900.0,23900.0,4.184100418,4.6,55800.0,Rectangle,White,Silicon,Yes,22.0,Yes,1.7,20.0
+139,139,apple,41900.0,7999.0,2.0,4.6,2847.0,Rectangle,Black,Aluminium,Yes,22.0,Yes,1.6,20.0
+140,140,apple,53900.0,7999.0,2.0,4.5,1519.0,Rectangle,Green,Aluminium,Yes,22.0,Yes,1.8,27.5
+141,141,apple,44900.0,7999.0,2.0,4.6,2847.0,Rectangle,Red,Aluminium,Yes,22.0,Yes,1.8,27.5
+142,142,apple,44900.0,7999.0,2.0,4.6,2847.0,Rectangle,Blue,Aluminium,Yes,22.0,Yes,1.8,27.5
+143,143,apple,41900.0,7999.0,2.0,4.6,2847.0,Rectangle,Blue,Aluminium,Yes,22.0,Yes,1.6,20.0
+144,144,apple,40900.0,7999.0,2.0,4.5,1720.0,Rectangle,Black,Silicon,Yes,22.0,Yes,1.6,27.5
+145,145,apple,41900.0,7999.0,2.0,4.6,2847.0,Rectangle,White,Aluminium,Yes,22.0,Yes,1.6,20.0
+146,146,apple,32900.0,7999.0,2.0,4.6,5502.0,Rectangle,Gold,Silicon,Yes,22.0,Yes,1.7,27.5
+147,147,apple,73900.0,7999.0,2.0,4.5,1519.0,Rectangle,Gold,Stainless Steel,Yes,22.0,Yes,1.6,20.0
+148,148,noise,1999.0,5999.0,66.67777963,4.2,80483.0,Rectangle,Black,Silicon,Yes,22.0,Yes,1.8,42.5
+149,149,noise,1299.0,3999.0,67.51687922,4.2,27445.0,Square,Black,Silicon,Yes,22.0,Yes,1.7,42.5
+150,150,noise,1799.0,4999.0,64.01280256,4.2,219512.0,Rectangle,Black,Silicon,Yes,22.0,Yes,1.7,42.5
+151,151,noise,1499.0,4999.0,70.0140028,3.4,504.0,Rectangle,Green,Silicon,Yes,8.0,Yes,1.8,42.5
+152,152,noise,1599.0,4999.0,68.01360272,4.3,4398.0,Rectangle,Green,Silicon,Yes,22.0,Yes,1.7,42.5
+153,153,noise,1499.0,3999.0,62.51562891,4.2,275607.0,Square,White,Silicon,Yes,8.0,Yes,1.7,42.5
+154,154,noise,3999.0,6999.0,42.86326618,4.4,12469.0,Circle,Black,Silicon,Yes,22.0,Yes,1.4,42.5
+155,155,noise,2999.0,7999.0,62.50781348,4.3,11755.0,Square,Black,Silicon,Yes,22.0,Yes,1.8,42.5
+156,156,noise,2999.0,5999.0,50.00833472,4.3,13108.0,Rectangle,Black,Silicon,Yes,22.0,Yes,1.7,42.5
+157,157,noise,2499.0,6999.0,64.29489927,4.3,3944.0,Square,Grey,Silicon,Yes,22.0,Yes,1.9,42.5
+158,158,noise,1299.0,4999.0,74.01480296,4.1,142612.0,Square,Black,Thermo Plastic Polyurethene,Yes,22.0,Yes,1.4,42.5
+159,159,noise,2999.0,8999.0,66.6740749,4.1,22942.0,Circle,Black,Silicon,Yes,22.0,Yes,1.3,42.5
+160,160,noise,3799.0,5999.0,36.6727788,4.2,6004.0,Rectangle,Black,Silicon,Yes,22.0,Yes,1.8,42.5
+161,161,noise,1499.0,4999.0,70.0140028,4.1,148555.0,Rectangle,Black,Synthetic,Yes,22.0,Yes,1.3,20.0
+162,162,noise,1799.0,5999.0,70.01166861,4.2,32505.0,Rectangle,Black,Thermo Plastic Polyurethene,Yes,22.0,Yes,1.5,42.5
+163,163,noise,1999.0,5999.0,66.67777963,4.1,69379.0,Rectangle,Black,Thermo Plastic Polyurethene,Yes,3.5,Yes,1.6,27.5
+164,164,noise,1499.0,3999.0,62.51562891,4.0,6638.0,Circle,Black,Silicon,Yes,22.0,Yes,1.3,42.5
+165,165,noise,1799.0,5999.0,70.01166861,4.1,3506.0,Square,Black,Silicon,Yes,22.0,Yes,1.8,42.5
+166,166,noise,1799.0,3999.0,55.01375344,4.2,5970.0,Rectangle,Grey,Silicon,Yes,22.0,Yes,1.7,42.5
+167,167,boat,1799.0,7990.0,77.48435544,4.1,125524.0,Rectangle,Blue,Silicon,Yes,22.0,Yes,1.7,42.5
+168,168,boat,1699.0,5990.0,71.6360601,4.0,98388.0,Rectangle,Black,Silicon,Yes,22.0,Yes,1.7,42.5
+169,169,boat,2499.0,8990.0,72.20244716,4.2,2893.0,Rectangle,Black,Silicon,Yes,22.0,Yes,1.9,42.5
+170,170,boat,3299.0,9799.0,66.33329932,4.1,13261.0,Rectangle,Red,Silicon,Yes,22.0,Yes,1.8,42.5
+171,171,boat,1499.0,5990.0,74.97495826,4.1,45492.0,Rectangle,Red,Silicon,Yes,22.0,Yes,1.6,42.5
+172,172,boat,2499.0,5990.0,58.28046745,4.2,39734.0,Rectangle,Grey,Silicon,Yes,22.0,Yes,1.7,42.5
+173,173,boat,1299.0,6990.0,81.41630901,3.9,17456.0,Rectangle,Purple,Silicon,Yes,22.0,Yes,1.7,42.5
+174,174,boat,1299.0,5990.0,78.31385643,4.1,619130.0,Square,Blue,Thermo Plastic Polyurethene,Yes,22.0,Yes,1.3,42.5
+175,175,boat,1999.0,8999.0,77.78642071,3.9,6469.0,Rectangle,Black,Silicon,Yes,22.0,Yes,1.8,42.5
+176,176,boat,2499.0,7990.0,68.72340426,4.0,8179.0,Rectangle,Green,Silicon,Yes,22.0,Yes,1.8,42.5
+177,177,boat,3999.0,6990.0,42.78969957,4.2,628.0,Rectangle,Red,Silicon,Yes,22.0,Yes,1.8,42.5
+178,178,boat,2799.0,5990.0,53.2721202,3.9,2406.0,Square,Green,Silicon,Yes,22.0,Yes,1.6,42.5
+179,179,boat,1999.0,6990.0,71.40200286,3.9,12026.0,Rectangle,Blue,Silicon,Yes,22.0,Yes,1.5,42.5
+180,180,boat,3999.0,7999.0,74.0,5.0,19590.0,Rectangle,Black,Silicon,Yes,22.0,Yes,1.7,42.5
+181,181,boat,2299.0,6990.0,67.11015737,3.9,16676.0,Square,Black,Silicon,Yes,22.0,Yes,1.7,42.5
+182,182,boat,2999.0,7990.0,62.46558198,3.8,11340.0,Square,Black,Silicon,Yes,22.0,Yes,1.3,42.5
+183,183,honor,8999.0,14999.0,40.00266684,4.4,14613.0,Circle,Black,Fluoroelastomer,Yes,8.0,Yes,1.4,27.5
+184,184,honor,12999.0,18999.0,31.58060951,4.2,84.0,Circle,Blue,Leather,Yes,8.0,Yes,1.4,27.5
+185,185,honor,13999.0,15999.0,12.5007813,4.4,14613.0,Circle,Brown,Leather,Yes,8.0,Yes,1.8,27.5
+186,186,honor,17999.0,20999.0,14.28639459,4.4,1111.0,Circle,Blue,Nylon,Yes,17.5,Yes,1.4,27.5
+187,187,honor,4999.0,10999.0,54.55041367,4.3,2241.0,Rectangle,Pink,Silicon,Yes,22.0,Yes,1.6,20.0
+188,188,honor,9047.0,17999.0,49.73609645,4.3,1779.0,Circle,Brown,Leather,Yes,22.0,Yes,1.2,27.5
+189,189,honor,7999.0,17333.0,53.8510356,4.3,1779.0,Circle,Black,Silicon,Yes,22.0,Yes,1.2,27.5
+190,190,honor,10999.0,13999.0,21.43010215,4.4,14613.0,Circle,Black,Fluoroelastomer,Yes,22.0,Yes,1.7,20.0
+191,191,samsung,12990.0,29999.0,56.69855662,4.4,35511.0,Circle,Black,Rubber,Yes,3.5,Yes,1.4,20.0
+192,192,samsung,27999.0,29999.0,6.666888896,4.3,435.0,Circle,Graphite,Rubber,Yes,3.5,Yes,1.2,20.0
+193,193,samsung,35999.0,39999.0,10.00025001,4.3,435.0,Circle,Graphite,Rubber,Yes,3.5,Yes,1.4,20.0
+194,194,samsung,22749.0,37999.0,40.13263507,4.2,567.0,Circle,Black,Fluoroelastomer,Yes,3.5,Yes,1.4,75.0
+195,195,samsung,32999.0,35999.0,8.333564821,4.3,435.0,Circle,Graphite,Rubber,Yes,3.5,Yes,1.2,20.0
+196,196,samsung,44999.0,48999.0,8.163431907,4.4,88.0,Circle,Black,Rubber,Yes,3.5,Yes,1.4,27.5
+197,197,samsung,34997.0,42999.0,18.60973511,4.2,567.0,Circle,Silver,Fluoroelastomer,Yes,3.5,Yes,1.4,75.0
+198,198,samsung,49999.0,54999.0,9.091074383,4.4,88.0,Circle,Grey,Rubber,Yes,3.5,Yes,1.4,27.5
+199,199,samsung,24999.0,26999.0,7.407681766,4.1,91.0,Circle,Black,Fluoroelastomer,Yes,3.5,Yes,4.0,20.0
+200,200,samsung,31999.0,34999.0,8.571673476,3.8,40.0,Circle,Black,Fluoroelastomer,Yes,3.5,Yes,1.2,27.5
+201,201,samsung,16999.0,34999.0,51.43004086,4.2,567.0,Circle,Black,Fluoroelastomer,Yes,3.5,Yes,1.4,20.0
+202,202,samsung,39490.0,7999.0,19.0,4.3,1489.0,Circle,Black,Leather,Yes,3.5,Yes,1.8,27.5
+203,203,samsung,17490.0,34999.0,50.02714363,4.2,567.0,Circle,Silver,Fluoroelastomer,Yes,3.5,Yes,1.2,27.5
+204,204,samsung,31999.0,39999.0,20.00050001,4.2,567.0,Circle,Black,Fluoroelastomer,Yes,3.5,Yes,1.2,27.5
+205,205,samsung,28999.0,31999.0,9.375292978,3.8,12.0,Circle,Pink,Fluoroelastomer,Yes,3.5,Yes,1.2,20.0
+206,206,samsung,11999.0,30990.0,61.28105841,4.3,1489.0,Circle,Black,Leather,Yes,3.5,Yes,1.6,27.5
+207,207,samsung,16999.0,28490.0,40.33345033,4.1,1980.0,Circle,Grey,Silicon,Yes,3.5,Yes,1.4,20.0
+208,208,samsung,16999.0,31990.0,46.86151922,4.4,23940.0,Circle,Black,Leather,Yes,3.5,Yes,1.7,27.5
+209,209,samsung,16999.0,25990.0,34.59407464,4.4,23940.0,Circle,Beige,Silicon,Yes,3.5,Yes,1.7,20.0
+210,210,samsung,27490.0,29989.0,8.333055454,4.2,201.0,Circle,Black,Silicon,Yes,3.5,Yes,1.8,75.0
+211,211,samsung,19990.0,7999.0,19.0,4.3,68.0,Circle,Blue,Rubber,Yes,3.5,Yes,1.1,20.0
+212,212,samsung,24490.0,28490.0,14.04001404,3.7,153.0,Circle,Beige,Silicon,Yes,3.5,Yes,1.7,27.5
+213,213,samsung,30990.0,34490.0,10.14786895,4.1,1980.0,Circle,Brown,Silicon,Yes,17.5,Yes,1.4,27.5
+214,214,samsung,29990.0,30990.0,3.22684737,4.3,1489.0,Circle,Pink,Leather,Yes,3.5,Yes,1.6,27.5
+215,215,samsung,16990.0,33999.0,50.027942,4.5,12211.0,Circle,Black,Rubber,Yes,3.5,Yes,1.8,75.0
+216,216,fitbit,11699.0,14999.0,22.00146676,4.3,3999.0,Square,Black,Silicon,Yes,3.5,Yes,1.3,27.5
+217,217,fitbit,14999.0,7999.0,15.0,4.7,396.5,Rectangle,Black,Silicon,Yes,22.0,Yes,1.0,20.0
+218,218,fitbit,14999.0,7999.0,15.0,4.7,5.0,Rectangle,Blue,Silicon,Yes,3.5,No,1.3,27.5
+219,219,fitbit,14999.0,7999.0,15.0,4.7,6.0,Rectangle,Black,Silicon,Yes,3.5,No,0.2,27.5
+220,220,fitbit,20499.0,7999.0,15.0,4.7,114.0,Curved,Pink,Silicon,Yes,3.5,Yes,0.2,27.5
+221,221,fitbit,8999.0,7999.0,15.0,4.7,396.5,Rectangle,Morning Glow,Silicon,Yes,22.0,Yes,0.6,27.5
+222,222,fitbit,8999.0,7999.0,15.0,4.7,396.5,Rectangle,Passion Pink,Rubber,Yes,3.5,No,0.2,27.5
+223,223,fitbit,17699.0,18999.0,6.842465393,4.3,455.0,Curved,Black,Rubber,Yes,17.5,Yes,15.9,27.5
+224,224,fitbit,20499.0,7999.0,15.0,4.7,114.0,Square,Beet Juice,Silicon,Yes,17.5,Yes,1.5,27.5
+225,225,fitbit,20999.0,22999.0,8.696030262,4.2,547.0,Curved,Black,Rubber,Yes,17.5,Yes,1.6,20.0
+226,226,fitbit,8999.0,23499.0,61.70475339,4.1,4475.0,Square,Charcoal,Fabric,Yes,3.5,Yes,1.3,27.5
+227,227,fitbit,26499.0,7999.0,15.0,4.1,367.0,Square,Grey,Rubber,Yes,17.5,Yes,1.3,27.5
+228,228,fitbit,19999.0,7999.0,15.0,4.2,1583.0,Contemporary,Black,Rubber,Yes,3.5,Yes,1.3,27.5
+229,229,fitbit,24990.0,7999.0,15.0,3.9,188.0,Square,Blue,Rubber,Yes,22.0,Yes,1.3,27.5
+230,230,fitbit,16999.0,7999.0,15.0,4.2,426.0,Square,Purple,Silicon,Yes,3.5,Yes,1.0,27.5
+231,231,fitbit,3999.0,7999.0,15.0,4.6,396.5,Square,Black,Other,Yes,3.5,Yes,1.3,27.5
+232,232,fitbit,20590.0,21499.0,4.228103633,4.1,4475.0,Square,Black,Silicon,Yes,3.5,Yes,1.3,27.5
+233,233,fitbit,24999.0,7999.0,15.0,4.7,396.5,Square,White Platinum,Silicon,Yes,17.5,Yes,1.5,27.5
+234,234,fitbit,15499.0,23999.0,35.41814242,4.5,92.0,Square,Multicolor,Fabric,Yes,17.5,Yes,1.3,27.5
+235,235,fitbit,20499.0,7999.0,15.0,4.7,396.5,Curved,Black,Rubber,Yes,3.5,Yes,0.2,27.5
+236,236,fitbit,20499.0,7999.0,15.0,4.7,396.5,Curved,Blue,Rubber,Yes,22.0,Yes,0.2,27.5
+237,237,amazfit,3999.0,5999.0,33.33888981,4.2,3130.0,Square,Pink,Silicon,Yes,22.0,Yes,1.8,75.0
+238,238,amazfit,7499.0,16999.0,55.88564033,4.3,11520.0,Circle,Grey,Silicon,Yes,8.0,Yes,1.4,20.0
+239,239,amazfit,4499.0,5999.0,25.00416736,4.1,333.0,Square,Beige,Silicon,Yes,8.0,Yes,1.7,20.0
+240,240,amazfit,9999.0,17999.0,44.44691372,4.5,5265.0,Circle,Black,Silicon,Yes,12.5,Yes,1.3,75.0
+241,241,amazfit,16999.0,23999.0,29.167882,4.3,575.0,Circle,Black,Silicon,Yes,8.0,Yes,1.4,20.0
+242,242,amazfit,4999.0,6999.0,28.57551079,4.1,4694.0,Rectangle,Pink,Silicon,Yes,22.0,Yes,1.4,20.0
+243,243,amazfit,13999.0,18999.0,26.31717459,4.1,306.0,Square,Misty Rose,Silicon,Yes,8.0,Yes,1.8,27.5
+244,244,amazfit,13999.0,18999.0,26.31717459,4.1,918.0,Circle,Grey,Silicon,Yes,17.5,Yes,1.4,27.5
+245,245,amazfit,18999.0,25999.0,26.92411247,4.2,115.0,Circle,Brown,Silicon,Yes,8.0,Yes,1.4,27.5
+246,246,amazfit,6999.0,9999.0,30.0030003,3.7,81.0,Rectangle,Black,Silicon,Yes,8.0,Yes,1.6,20.0
+247,247,amazfit,8999.0,13999.0,35.71683692,4.3,578.0,Circle,Black,Silicon,Yes,17.5,Yes,1.4,20.0
+248,248,amazfit,19999.0,23999.0,16.66736114,4.3,575.0,Rectangle,White,Silicon,Yes,8.0,Yes,1.8,20.0
+249,249,amazfit,2999.0,5999.0,50.00833472,3.8,15.0,Square,Black,Silicon,Yes,22.0,Yes,1.4,20.0
+250,250,amazfit,7200.0,14999.0,51.99679979,4.0,6.0,Square,Black,Silicon,Yes,3.5,Yes,3.0,20.0
+251,251,garmin,139990.0,7999.0,15.0,4.7,6022.0,Circle,Silver,Stainless Steel,Yes,17.5,Yes,0.1,27.5
+252,252,garmin,16990.0,20990.0,19.05669366,4.4,90.0,Square,Grey,Silicon,Yes,17.5,Yes,1.3,27.5
+253,253,garmin,39490.0,7999.0,15.0,5.0,6.0,Circle,Grey,Silicon,No,8.0,Yes,1.3,27.5
+254,254,garmin,33490.0,7999.0,15.0,4.7,19.0,Square,Black,Silicon,Yes,17.5,Yes,1.4,27.5
+255,255,garmin,24990.0,36490.0,31.51548369,4.4,43.0,Circle,Red,Silicon,No,22.0,Yes,1.2,27.5
+256,256,garmin,34990.0,51990.0,32.69859588,4.3,6.0,Circle,Red,Silicon,No,22.0,Yes,1.2,27.5
+257,257,garmin,39490.0,41990.0,5.953798523,4.8,6.0,Circle,Blue,Silicon,Yes,17.5,Yes,33.0,27.5
+258,258,garmin,89490.0,93990.0,4.787743377,4.7,19.0,Circle,Black,Silicon,Yes,12.5,Yes,0.1,27.5
+259,259,garmin,67490.0,7999.0,15.0,4.7,19.0,Circle,White,Silicon,No,8.0,Yes,1.3,75.0
+260,260,garmin,20990.0,7999.0,15.0,4.2,61.0,Circle,Blue,Silicon,No,22.0,Yes,1.0,27.5
+261,261,garmin,98990.0,7999.0,15.0,4.7,6022.0,Circle,Black,Silicon,Yes,17.5,Yes,0.1,27.5
+262,262,garmin,49990.0,51990.0,3.846893633,4.7,19.0,Circle,Black,Silicon,Yes,8.0,Yes,1.3,75.0
+263,263,garmin,44990.0,50490.0,10.89324619,4.0,6.0,Circle,Blue,Silicon,No,17.5,Yes,0.9,27.5
+264,264,garmin,22990.0,31490.0,26.99269609,4.1,20.0,Circle,Black,Silicon,No,8.0,Yes,0.9,27.5
+265,265,garmin,33490.0,36990.0,9.462016761,4.6,5.0,Circle,Black,Silicon,No,17.5,Yes,0.9,27.5
+266,266,garmin,39490.0,44990.0,12.22493888,4.7,109.0,Circle,White,Silicon,Yes,22.0,Yes,27.9,27.5
+267,267,garmin,27990.0,7999.0,15.0,5.0,3.0,Square,Grey,Rubber,Yes,17.5,Yes,1.4,27.5
+268,268,garmin,20490.0,7999.0,15.0,5.0,3.0,Circle,Brown,Silicon,No,3.5,Yes,18.5,27.5
+269,269,garmin,89490.0,89990.0,0.555617291,4.7,6022.0,Circle,Grey,Silicon,Yes,17.5,Yes,0.1,27.5
+270,270,garmin,46990.0,7999.0,15.0,4.5,8.0,Circle,White,Silicon,Yes,3.5,Yes,1.3,75.0
+271,271,garmin,44990.0,46990.0,4.256224729,4.0,6.0,Circle,Black,Silicon,No,17.5,Yes,0.9,27.5
+272,272,garmin,46990.0,62490.0,24.80396863,4.1,10.0,Circle,Black,Silicon,No,8.0,Yes,1.9,27.5
+273,273,garmin,33490.0,39490.0,15.19371993,4.7,109.0,Circle,Red,Silicon,No,17.5,No,0.8,27.5
+274,274,garmin,20990.0,25990.0,19.23816853,3.4,7.0,Square,Blue,Silicon,Yes,17.5,Yes,1.3,27.5
+275,275,garmin,64990.0,82990.0,21.68936016,4.7,19.0,Circle,Black,Silicon,Yes,22.0,Yes,1.2,75.0
+276,276,garmin,44990.0,50490.0,10.89324619,4.7,19.0,Circle,Green,Silicon,No,17.5,Yes,0.8,27.5
+277,277,garmin,76990.0,96390.0,20.12656915,4.7,7.0,Circle,Silver,Silicon,Yes,17.5,Yes,1.3,27.5
+278,278,garmin,67490.0,67990.0,0.735402265,4.7,6022.0,Circle,Grey,Silicon,Yes,12.5,Yes,0.1,27.5
+279,279,garmin,39490.0,44990.0,12.22493888,4.7,109.0,Circle,Grey,Silicon,No,17.5,Yes,0.9,27.5
+280,280,garmin,50490.0,55990.0,9.823182711,4.7,109.0,Circle,Brown,Silicon,No,17.5,Yes,0.9,27.5
+281,281,garmin,27990.0,39990.0,30.00750188,3.7,10.0,Circle,Blue,Silicon,Yes,3.5,Yes,1.2,27.5
+282,282,huawei,18990.0,29990.0,36.67889296,4.3,189.0,Circle,Black,Fluoroelastomer,Yes,8.0,Yes,1.4,75.0
+283,283,huawei,14990.0,20990.0,28.5850405,4.5,3228.0,Circle,Black,Fluoroelastomer,Yes,8.0,Yes,1.8,27.5
+284,284,huawei,15990.0,20990.0,23.82086708,4.4,399.0,Circle,Orange,Silicon,Yes,8.0,Yes,1.8,75.0
+285,285,huawei,14990.0,19990.0,25.01250625,4.7,196.0,Circle,Black,Fluoroelastomer,Yes,22.0,Yes,1.7,20.0
+286,286,huawei,29999.0,7999.0,40.0,3.8,5.0,Circle,Black,Silicon,Yes,17.5,Yes,1.2,75.0
+287,287,huawei,25999.0,7999.0,40.0,3.9,21.0,Circle,Black,Leather,Yes,17.5,Yes,1.2,75.0
+288,288,huawei,6999.0,9999.0,30.0030003,3.3,20.0,Circle,Orange,Silicon,Yes,17.5,Yes,1.2,75.0
+289,289,huawei,10990.0,20990.0,47.64173416,4.5,203.0,Circle,Black,Silicon,Yes,8.0,Yes,1.8,75.0
+290,290,huawei,10990.0,21990.0,50.02273761,4.5,93.0,Circle,Brown,Leather,Yes,8.0,Yes,1.8,75.0
+291,291,huawei,8990.0,19990.0,55.02751376,4.3,1269.0,Circle,Red,Thermo Plastic Polyurethene,Yes,8.0,Yes,1.4,75.0
+292,292,huawei,11990.0,19990.0,40.02001001,4.3,1269.0,Circle,Green,Thermo Plastic Polyurethene,Yes,8.0,Yes,1.4,75.0
+293,293,huawei,6990.0,14990.0,53.36891261,4.3,119.0,Rectangle,Pink,Silicon,Yes,22.0,Yes,4.2,20.0
+294,294,fossil,23995.0,7999.0,39.0,4.2,343.0,Circle,Purple,Silicon,Yes,17.5,Yes,1.3,75.0
+295,295,fossil,18495.0,7999.0,39.0,3.8,172.0,Circle,Black,Stainless Steel,Yes,22.0,Yes,1.7,75.0
+296,296,fossil,15289.0,22995.0,33.51163296,4.0,470.0,Circle,Silver,Stainless Steel,Yes,17.5,Yes,1.3,75.0
+297,297,fossil,17995.0,7999.0,39.0,3.9,46.0,Circle,Multicolor,Silicon,Yes,17.5,Yes,1.2,75.0
+298,298,fossil,19999.0,21995.0,9.074789725,3.8,53.0,Circle,Silver,Stainless Steel,Yes,22.0,Yes,1.7,75.0
+299,299,fossil,9995.0,14995.0,33.34444815,3.9,57.0,Circle,Black,Silicon,No,22.0,Yes,1.1,75.0
+300,300,fossil,14995.0,22995.0,34.79017178,4.0,4483.0,Circle,Grey,Stainless Steel,Yes,17.5,Yes,1.3,75.0
+301,301,fossil,13195.0,21995.0,40.00909298,3.9,510.0,Circle,Gold,Stainless Steel,Yes,22.0,Yes,1.6,75.0
+302,302,fossil,9995.0,17995.0,44.45679355,4.0,1532.0,Circle,Blue,Silicon,Yes,3.5,Yes,1.2,75.0
+303,303,fossil,9198.0,22995.0,60.0,4.3,283.0,Circle,Beige,Leather,Yes,17.5,Yes,1.3,75.0
+304,304,fossil,13495.0,7999.0,39.0,4.7,112.5,Circle,Black,Stainless Steel,No,17.5,Yes,1.3,75.0
+305,305,fossil,17995.0,7999.0,39.0,4.0,599.0,Circle,Blue,Silicon,Yes,22.0,Yes,1.2,75.0
+306,306,fossil,18995.0,7999.0,39.0,4.0,102.0,Circle,Black,Silicon,Yes,22.0,Yes,45.0,75.0
+307,307,fossil,19995.0,7999.0,39.0,3.1,28.0,Circle,Brown,Leather,Yes,22.0,Yes,1.4,75.0
+308,308,fossil,19995.0,7999.0,39.0,4.4,69.0,Circle,Black,Leather,Yes,22.0,Yes,1.7,75.0
+309,309,fossil,11995.0,7999.0,39.0,4.3,4.0,Circle,Black,Leather,No,17.5,Yes,1.7,75.0
+310,310,fossil,14995.0,7999.0,39.0,3.9,41.0,Circle,Black,Leather,No,3.5,Yes,1.2,75.0
+311,311,fossil,16495.0,7999.0,39.0,4.1,123.0,Circle,Grey,Stainless Steel,No,3.5,Yes,1.1,75.0
+312,312,fossil,16495.0,7999.0,39.0,4.7,112.5,Circle,Silver,Stainless Steel,No,8.0,Yes,1.1,75.0
+313,313,fossil,9995.0,16495.0,39.40588057,3.8,144.0,Circle,Black,Stainless Steel,Yes,3.5,Yes,1.1,75.0
+314,314,fossil,13995.0,7999.0,39.0,3.8,4.0,Circle,Blue,Stainless Steel,No,22.0,Yes,1.3,75.0
+315,315,fossil,13495.0,7999.0,39.0,4.4,11.0,Circle,Silver,Stainless Steel,No,17.5,Yes,1.3,75.0
+316,316,fossil,13495.0,7999.0,39.0,4.7,3.0,Circle,Blue,Stainless Steel,No,17.5,Yes,1.3,75.0
+317,317,fossil,10998.0,21995.0,49.99772676,3.9,5182.0,Circle,Black,Silicon,Yes,22.0,Yes,1.8,75.0
+318,318,dizo,1299.0,5499.0,76.37752319,4.0,1598.0,Rectangle,Grey,Silicon,Yes,8.0,Yes,1.8,27.5
+319,319,dizo,1799.0,4999.0,64.01280256,4.2,34953.0,Rectangle,Black,Silicon,Yes,8.0,Yes,1.8,75.0
+320,320,dizo,3299.0,5999.0,45.00750125,4.0,28926.0,Circle,Black,Silicon,Yes,22.0,Yes,1.3,27.5
+321,321,dizo,1999.0,5999.0,66.67777963,4.1,561.0,Rectangle,Black,Silicon,Yes,22.0,Yes,1.9,27.5
+322,322,dizo,1699.0,3999.0,57.51437859,4.2,110067.0,Rectangle,Pink,Silicon,Yes,12.5,Yes,1.7,75.0
+323,323,dizo,1199.0,3499.0,65.73306659,4.2,62964.0,Square,Blue,Silicon,Yes,22.0,Yes,1.7,27.5
+324,324,dizo,4499.0,6999.0,35.71938848,4.2,6385.0,Circle,Grey,Silicon,Yes,22.0,Yes,1.3,75.0
+325,325,dizo,3499.0,5999.0,41.67361227,4.2,1785.0,Rectangle,Grey,Silicon,Yes,22.0,Yes,1.8,75.0
+326,326,dizo,1999.0,3999.0,50.01250313,3.9,3492.0,Rectangle,Pink,Silicon,Yes,22.0,Yes,1.6,27.5
+327,327,dizo,1999.0,4999.0,60.0120024,4.1,717.0,Rectangle,Blue,Silicon,Yes,8.0,Yes,1.9,27.5
+328,328,dizo,2799.0,3999.0,30.00750188,4.1,7586.0,Square,Black,Silicon,Yes,8.0,Yes,1.8,27.5
+329,329,dizo,3299.0,6999.0,52.86469496,3.9,345.0,Square,Blue,Silicon,Yes,22.0,Yes,1.8,27.5
+330,330,dizo,3999.0,6999.0,42.86326618,4.1,663.0,Circle,Blue,Silicon,Yes,22.0,Yes,1.4,27.5
+331,331,dizo,2699.0,5999.0,55.00916819,3.3,222.0,Square,Grey,Silicon,Yes,22.0,Yes,1.9,27.5
+332,332,dizo,5999.0,6999.0,14.28775539,4.2,13.0,Circle,Black,Silicon,Yes,22.0,Yes,1.3,75.0
+333,333,dizo,5999.0,6999.0,14.28775539,4.2,13.0,Circle,Grey,Silicon,Yes,22.0,Yes,1.3,75.0
+334,334,dizo,3999.0,5999.0,33.33888981,4.2,42860.0,Rectangle,Grey,Silicon,Yes,22.0,Yes,1.8,75.0
+335,335,dizo,3999.0,5999.0,33.33888981,4.2,42860.0,Rectangle,Black,Silicon,Yes,22.0,Yes,1.8,75.0
+336,336,dizo,2499.0,3999.0,37.50937734,3.6,70.0,Square,Black,Plastic,Yes,22.0,Yes,1.7,27.5
+337,337,gizmore,1199.0,4499.0,73.34963325,4.7,69.5,Square,Blue,Silicon,Yes,22.0,Yes,1.8,27.5
+338,338,gizmore,1799.0,5999.0,70.01166861,4.2,4813.0,Square,Grey,Silicon,Yes,3.5,Yes,0.1,27.5
+339,339,gizmore,1299.0,5499.0,76.37752319,3.8,3137.0,Square,Black,Silicon,Yes,3.5,Yes,0.1,27.5
+340,340,gizmore,2799.0,8999.0,68.89654406,4.0,1994.0,Circle,Black,Silicon,Yes,3.5,Yes,1.4,75.0
+341,341,gizmore,1999.0,5999.0,66.67777963,4.0,1178.0,Square,Grey,Silicon,Yes,8.0,Yes,1.9,75.0
+342,342,gizmore,3499.0,8999.0,61.11790199,3.7,475.0,Circle,Black,Leather,Yes,3.5,Yes,1.3,75.0
+343,343,gizmore,1999.0,6999.0,71.43877697,3.8,927.0,Square,Blue,Silicon,Yes,22.0,Yes,1.9,27.5
+344,344,gizmore,2399.0,5499.0,56.37388616,5.0,3.0,Square,Burgundy,Silicon,Yes,3.5,Yes,1.9,20.0
+345,345,gizmore,2799.0,6999.0,60.00857265,4.3,7.0,Circle,Burgundy,Silicon,Yes,3.5,Yes,1.3,75.0
+346,346,gizmore,2199.0,5999.0,63.34389065,3.5,10.0,Square,Black,Silicon,Yes,3.5,Yes,1.7,75.0
+347,347,gizmore,1999.0,5999.0,66.67777963,3.5,30.0,Rectangle,Black,Silicon,Yes,3.5,Yes,1.6,20.0
+348,348,gizmore,1799.0,2999.0,40.01333778,3.8,645.0,Square,Black,Silicon,Yes,22.0,Yes,1.0,75.0
+349,349,gizmore,1499.0,6999.0,78.58265466,4.7,69.5,Square,Grey,Silicon,Yes,22.0,Yes,1.9,27.5
+350,350,gizmore,6999.0,7999.0,69.0,4.7,69.5,Square,Orange,Silicon,Yes,22.0,Yes,1.9,27.5
+351,351,gizmore,2799.0,6999.0,60.00857265,4.7,69.5,Circle,Black,Silicon,Yes,3.5,Yes,1.3,75.0
+352,352,ambrane,1299.0,4999.0,74.01480296,4.2,60292.0,Square,Grey,Silicon,Yes,22.0,Yes,1.7,42.5
+353,353,ambrane,1599.0,5999.0,73.34555759,4.2,25108.0,Circle,Grey,Silicon,Yes,22.0,Yes,1.3,42.5
+354,354,ambrane,1799.0,5999.0,70.01166861,4.2,453.0,Square,Black,Silicon,Yes,22.0,Yes,2.0,42.5
+355,355,ambrane,1499.0,5299.0,71.71164371,4.2,8574.0,Square,Red,Silicon,Yes,22.0,Yes,1.9,42.5
+356,356,ambrane,2499.0,5999.0,58.34305718,4.3,7767.0,Square,Grey,Silicon,Yes,22.0,Yes,1.8,42.5
+357,357,ambrane,1799.0,3799.0,52.64543301,4.2,8003.0,Square,Pink,Silicon,Yes,22.0,Yes,1.7,42.5
+358,358,ambrane,2299.0,3999.0,42.51062766,4.1,2475.0,Circle,Black,Silicon,Yes,22.0,Yes,1.3,42.5
+359,359,ambrane,1999.0,5999.0,66.67777963,3.9,1099.0,Rectangle,Black,Synthetic,Yes,22.0,Yes,1.3,27.5
+360,360,ambrane,1499.0,3799.0,60.54224796,4.2,1804.0,Square,Green,Silicon,Yes,22.0,Yes,1.7,42.5
+361,361,pebble,2799.0,7499.0,62.67502334,4.4,12644.0,Rectangle,Black,Silicon,Yes,22.0,Yes,1.9,75.0
+362,362,pebble,4199.0,9499.0,55.79534688,4.2,7828.0,Circle,Charcoal,Silicon,Yes,22.0,Yes,0.1,27.5
+363,363,pebble,4199.0,9999.0,58.00580058,4.2,541.0,Circle,Midnight,Silicon,Yes,22.0,Yes,1.4,27.5
+364,364,pebble,1999.0,4999.0,60.0120024,4.0,4240.0,Rectangle,Blue,Silicon,Yes,3.5,Yes,20.0,27.5
+365,365,pebble,4199.0,9499.0,55.79534688,4.2,7828.0,Circle,Green,Silicon,Yes,22.0,Yes,0.1,27.5
+366,366,pebble,1999.0,4999.0,60.0120024,4.0,4240.0,Rectangle,Orange Alpine,Silicon,Yes,3.5,Yes,20.0,27.5
+367,367,pebble,3499.0,5999.0,41.67361227,4.7,1176.0,Circle,Grey,Silicon,Yes,22.0,Yes,1.3,27.5
+368,368,pebble,4699.0,7499.0,37.33831177,4.1,20.0,Circle,Brown,Leather,Yes,8.0,Yes,1.3,27.5
+369,369,pebble,3999.0,9999.0,60.0060006,3.9,677.0,Rectangle,Blue,Silicon,Yes,22.0,Yes,2.1,27.5
+370,370,pebble,3999.0,6499.0,38.46745653,3.4,45.0,Rectangle,Pink,Silicon,Yes,22.0,Yes,1.6,27.5
+371,371,pebble,4990.0,6999.0,28.70410059,4.1,1964.0,Square,Maroon,Silicon,Yes,8.0,Yes,0.1,75.0
+372,372,pebble,1499.0,4499.0,66.68148477,3.8,1338.0,Rectangle,Blue,Silicon,Yes,17.5,Yes,1.9,75.0
+373,373,pebble,4990.0,6999.0,28.70410059,5.0,3.0,Square,Blue,Rubber,Yes,8.0,Yes,0.2,75.0
+374,374,pebble,3999.0,7999.0,50.00625078,3.9,2874.0,Square,Black,Silicon,Yes,22.0,Yes,0.1,27.5
+375,375,pebble,3999.0,7499.0,46.67288972,4.1,99.0,Circle,Black,Silicon,Yes,22.0,Yes,1.1,27.5
+376,376,pebble,3999.0,7999.0,50.00625078,3.9,2874.0,Square,"Pink, Gold",Silicon,Yes,22.0,Yes,0.1,27.5
+377,377,pebble,2499.0,4499.0,44.45432318,3.5,1014.0,Rectangle,Deep Wine,Silicon,Yes,22.0,Yes,1.7,27.5
+378,378,pebble,2999.0,5499.0,45.46281142,3.8,5.0,Square,Gold,Silicon,Yes,8.0,Yes,0.1,27.5
+379,379,pebble,4499.0,7499.0,40.00533404,3.1,10.0,Circle,Black,Silicon,Yes,8.0,Yes,1.3,27.5
+380,380,pebble,3069.0,4999.0,38.60772154,4.0,1371.0,Rectangle,Black,Silicon,Yes,22.0,Yes,1.4,27.5
+381,381,pebble,1499.0,3299.0,54.56198848,3.8,1176.0,Square,Black,Silicon,Yes,8.0,Yes,0.1,27.5
+382,382,pebble,3299.0,4999.0,34.00680136,3.8,1176.0,Square,Sea Green,Silicon,Yes,8.0,Yes,0.1,27.5
+383,383,pebble,2499.0,3299.0,24.24977266,3.8,1176.0,Square,Blue,Silicon,Yes,8.0,Yes,0.1,27.5
+384,384,pebble,4990.0,6999.0,28.70410059,4.1,1964.0,Square,Rose Gold,Silicon,Yes,3.5,Yes,0.1,27.5
+385,385,pebble,2999.0,5499.0,45.46281142,3.8,1176.0,Square,Black,Silicon,Yes,8.0,Yes,0.1,27.5
+386,386,pebble,3999.0,5499.0,27.27768685,4.1,16.0,Rectangle,Black,Silicon,Yes,22.0,Yes,0.1,27.5
+387,387,pebble,2999.0,4999.0,40.0080016,4.0,1371.0,Rectangle,Blue,Silicon,Yes,22.0,Yes,1.4,27.5
+388,388,pebble,4990.0,6999.0,28.70410059,4.1,1176.0,Square,Maroon,Silicon,Yes,8.0,Yes,0.1,75.0
+389,389,pebble,5190.0,7499.0,30.7907721,4.1,1176.0,Circle,Black,Silicon,Yes,22.0,Yes,0.0,27.5
+390,390,zebronics,2199.0,4999.0,56.01120224,3.9,272.0,Square,Green,Thermo Plastic Polyurethene,Yes,22.0,Yes,3.3,27.5
+391,391,zebronics,3499.0,5499.0,36.37024914,3.9,22.0,Square,Black,Silicon,Yes,22.0,Yes,4.3,75.0
+392,392,zebronics,2999.0,7999.0,62.50781348,3.5,22.0,Rectangle,Black,Silicon,Yes,3.5,Yes,6.9,75.0
+393,393,zebronics,2399.0,7999.0,70.00875109,3.9,1328.0,Circle,Silver,Silicon,Yes,22.0,Yes,3.3,75.0
+394,394,zebronics,1999.0,3999.0,50.01250313,3.9,22.0,Square,Rose Gold,Silicon,Yes,17.5,Yes,1.7,75.0
+395,395,zebronics,4499.0,7499.0,40.00533404,3.7,3.0,Rectangle,Black,Silicon,Yes,22.0,Yes,1.7,75.0
+396,396,zebronics,2199.0,4999.0,56.01120224,3.9,22.0,Square,Black,Silicon,Yes,17.5,Yes,1.3,75.0
+397,397,zebronics,2999.0,5999.0,50.00833472,3.6,55.0,Square,Black,Stainless Steel,Yes,22.0,Yes,0.2,75.0
+398,398,zebronics,5499.0,7499.0,26.6702227,3.9,22.0,Square,Black,Silicon,Yes,22.0,Yes,1.8,75.0
+399,399,zebronics,3499.0,3999.0,12.50312578,3.9,77.5,Square,Gold,Silicon,Yes,22.0,Yes,1.5,75.0
+400,400,zebronics,2799.0,5499.0,49.09983633,3.9,22.0,Square,Black,Rubber,Yes,22.0,Yes,1.7,75.0
+401,401,zebronics,1799.0,3999.0,55.01375344,4.2,1823.0,Square,Rose Gold,Silicon,Yes,22.0,Yes,4.3,27.5
+402,402,zebronics,3499.0,7999.0,56.25703213,1.0,1.0,Circle,Black,Silicon,Yes,22.0,Yes,1.3,75.0
+403,403,zebronics,1399.0,4499.0,68.90420093,4.0,469.0,Square,Red,Thermo Plastic Polyurethene,Yes,22.0,Yes,3.5,27.5
+404,404,zebronics,3499.0,5999.0,41.67361227,3.9,77.5,Square,Silver,Stainless Steel,Yes,22.0,Yes,4.3,75.0
+405,405,zebronics,3099.0,7999.0,61.25765721,2.3,3.0,Curved,Silver,Aluminium,Yes,22.0,Yes,0.1,75.0
+406,406,zebronics,1897.0,1899.0,0.105318589,3.3,4.0,Rectangle,Grey,Silicon,Yes,22.0,Yes,2.3,75.0
+407,407,zebronics,2949.0,4199.0,29.76899262,3.1,10.0,Oval,Black,Leather,Yes,22.0,Yes,2.7,75.0
+408,408,zebronics,3449.0,4199.0,17.86139557,2.9,17.0,Circle,Black,Silicon,Yes,3.5,Yes,2.4,75.0
+409,409,zebronics,1499.0,2999.0,50.01667222,3.1,24.0,Circle,Black,Rubber,Yes,22.0,Yes,2.7,75.0
+410,410,zebronics,2999.0,5999.0,50.00833472,4.0,77.5,Rectangle,Silver,Stainless Steel,Yes,17.5,Yes,1.7,75.0
+411,411,fire-boltt,2499.0,5999.0,58.34305718,2.5,2571.0,Square,Black,Silicon,Yes,22.0,Yes,1.5,75.0
+412,412,fire-boltt,2399.0,11999.0,80.00666722,2.5,6022.0,Square,Black,Silicon,Yes,22.0,Yes,1.8,75.0
+413,413,fire-boltt,3927.0,9999.0,60.72607261,2.5,2571.0,Square,Black,Silicon,Yes,22.0,Yes,1.8,75.0
+414,414,fire-boltt,3927.0,9999.0,60.72607261,2.5,2571.0,Square,Gold,Silicon,Yes,22.0,Yes,1.8,75.0
+415,415,fire-boltt,2299.0,5999.0,61.67694616,2.5,24.0,Square,Blue,Silicon,Yes,22.0,Yes,1.6,75.0
+416,416,fire-boltt,2299.0,5999.0,61.67694616,2.5,201.0,Square,Black,Silicon,Yes,22.0,Yes,1.6,75.0
+417,417,fire-boltt,6499.0,12999.0,50.00384645,2.5,2571.0,Circle,Black,Silicon,Yes,22.0,Yes,1.3,75.0
+418,418,fire-boltt,4599.0,17999.0,74.44858048,2.5,11.0,Square,Black,Silicon,Yes,22.0,Yes,1.8,75.0
+419,419,fire-boltt,3299.0,9999.0,67.00670067,2.5,5.0,Square,Grey,Silicon,Yes,22.0,Yes,1.7,75.0
+420,420,fire-boltt,2699.0,4999.0,46.00920184,2.5,33.0,Square,Black,Silicon,Yes,22.0,Yes,1.3,75.0
+421,421,fire-boltt,2799.0,7999.0,65.00812602,4.2,5.0,Square,Black,Rubber,Yes,22.0,Yes,0.1,75.0
+422,422,fire-boltt,3449.0,9999.0,65.50655066,3.8,83.0,Square,Black,Rubber,Yes,22.0,Yes,0.1,75.0
+423,423,fire-boltt,3499.0,9999.0,65.00650065,4.8,4.0,Square,Silver,Rubber,Yes,8.0,Yes,0.1,75.0
+424,424,fire-boltt,3999.0,9999.0,60.0060006,3.1,8.0,Rectangle,Black,Silicon,Yes,22.0,Yes,0.1,75.0
+425,425,fire-boltt,3999.0,9999.0,60.0060006,3.7,2571.0,Circle,Blue,Rubber,Yes,22.0,Yes,0.1,75.0
+426,426,fire-boltt,3599.0,5999.0,40.00666778,5.0,3.0,Rectangle,Black,Silicon,Yes,22.0,Yes,1.4,75.0
+427,427,fire-boltt,3799.0,9999.0,62.00620062,3.7,2571.0,Square,Black,Rubber,Yes,3.5,Yes,0.1,75.0
+428,428,fire-boltt,3499.0,9999.0,65.00650065,3.7,2571.0,Rectangle,Pink,Rubber,Yes,8.0,Yes,0.1,75.0
+429,429,fire-boltt,3499.0,9999.0,65.00650065,3.7,2571.0,Square,Blue,Rubber,Yes,8.0,Yes,0.1,75.0
+430,430,fire-boltt,5599.0,9999.0,44.00440044,2.5,2571.0,Square,White,Silicon,Yes,22.0,Yes,1.7,75.0
+431,431,fire-boltt,3999.0,9999.0,60.0060006,3.7,3.0,Square,Pink,Silicon,Yes,22.0,Yes,1.7,75.0
+432,432,fire-boltt,3699.0,11999.0,69.17243104,2.5,2571.0,Square,Black,Silicon,Yes,8.0,Yes,1.8,75.0
+433,433,fire-boltt,3899.0,11999.0,67.50562547,2.5,2571.0,Square,Green,Silicon,Yes,22.0,Yes,1.8,75.0
+434,434,fire-boltt,2298.0,5999.0,61.6936156,3.6,5.0,Square,Black,Rubber,Yes,22.0,Yes,0.1,75.0
+435,435,fire-boltt,3299.0,11999.0,72.50604217,2.5,2571.0,Square,Black,Silicon,Yes,3.5,Yes,1.8,75.0
+436,436,fire-boltt,1999.0,5999.0,66.67777963,3.7,2571.0,Square,Black,Rubber,Yes,22.0,Yes,0.1,75.0
+437,437,fire-boltt,3599.0,9999.0,64.00640064,3.7,2571.0,Square,Blue,Rubber,Yes,22.0,Yes,0.1,75.0
+438,438,fire-boltt,3599.0,9999.0,64.00640064,3.7,2571.0,Square,Red,Rubber,Yes,22.0,Yes,0.1,75.0
+439,439,fire-boltt,5998.0,9999.0,40.0140014,2.5,2571.0,Rectangle,Blue,Silicon,Yes,22.0,Yes,1.3,75.0
+440,440,fire-boltt,5599.0,9999.0,44.00440044,2.5,2571.0,Square,Blue,Silicon,Yes,22.0,Yes,1.3,75.0
+441,441,fire-boltt,2899.0,4999.0,42.00840168,2.5,2571.0,Square,Grey,Silicon,Yes,22.0,Yes,1.3,75.0
+442,442,fire-boltt,3999.0,9999.0,60.0060006,3.7,6.0,Square,White,Rubber,Yes,22.0,Yes,1.7,75.0
+443,443,fire-boltt,4599.0,7999.0,42.50531316,2.5,2571.0,Square,Black,Silicon,Yes,22.0,Yes,1.7,75.0
+444,444,fire-boltt,6999.0,15999.0,56.25351584,2.6,2571.0,Circle,Brown,Silicon,Yes,8.0,Yes,1.4,75.0
+445,445,fire-boltt,5999.0,8999.0,33.33703745,2.5,2571.0,Circle,Grey,Silicon,Yes,22.0,Yes,1.3,75.0
+446,446,fire-boltt,3700.0,9999.0,62.99629963,3.7,2571.0,Square,Black,Silicon,Yes,8.0,Yes,0.1,75.0
+447,447,fire-boltt,5999.0,8999.0,33.33703745,2.5,2571.0,Circle,Gold,Silicon,Yes,22.0,Yes,1.3,75.0
+448,448,fire-boltt,3200.0,7999.0,59.99499937,3.7,2571.0,Square,Blue,Silicon,Yes,22.0,Yes,0.1,75.0
+449,449,fire-boltt,3000.0,7999.0,62.49531191,3.7,2571.0,Square,Black,Silicon,Yes,22.0,Yes,0.1,75.0
